@@ -1,0 +1,21 @@
+vit_d = "Vitamin D and vitamin D analogues for preventing fractures in post‐menopausal women and older men"
+keyword = "elderly", "dietary"
+
+vit_min_supp = "Vitamin and mineral supplementation for preventing dementia or delaying cognitive decline in people with mild cognitive impairment"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
+chronic_kidney_disease = "Dietary intervention for adults with chronic kidney disease"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
+chronic_kidney_disease = "Community‐level interventions for improving access to food in low‐ and middle‐income countries"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
+nutri_stroke = "Nutritional therapy for reducing disability and improving activitiesof daily living in people after stroke"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
+vit_e_alz = "Vitamin E for Alzheimer's dementia and mild cognitive impairment"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
+diab_menty = "Interventions for preventing type 2 diabetes in adults with mental disorders in low‐ and middle‐income countries"
+keyword = "(old age OR elderly OR "older adults" OR aging OR aged OR senior) AND (diet OR nutrition OR "dietary intake" OR food) AND (protein OR "protein intake" OR "protein supplementation" OR "dietary protein") AND ("vitamin D" OR "calciferol" OR "vitamin D3" OR "vitamin D supplementation") in All Text
+
