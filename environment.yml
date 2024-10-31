@@ -1,0 +1,15 @@
+name: phdscraping
+channels:
+  - conda-forge
+  - defaults
+
+
+dependencies:
+  - python
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  
